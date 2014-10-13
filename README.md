@@ -3,7 +3,7 @@ Data Description
 
 Raw CSV samples are [here](https://github.com/hackathonBI/CS/tree/master/sample%20data).
 
-![Relation Model](https://raw.githubusercontent.com/hackathonBI/CS/master/sample%20data/erd.jpg)
+![Relation Model](https://raw.githubusercontent.com/hackathonBI/CS/master/sample%20data/erd2.jpg)
 
 
 ## Business Questions
