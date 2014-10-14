@@ -7,6 +7,8 @@ Raw CSV samples are [here](https://github.com/hackathonBI/CS/tree/master/sample%
 
 ## Headers
 
+Raw HTML tables are [here](https://github.com/hackathonBI/CS/tree/master/sample%20data/headers)
+
 **ACCOUNT_TRANSACTIONS**
 
 ![ACCOUNT_TRANSACTIONS](https://raw.githubusercontent.com/hackathonBI/CS/master/sample%20data/headers/pic/ACCOUNT_TRANSACTIONS.jpg)
